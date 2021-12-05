@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cat-of-The-Minute/static/css/main.62562e34.chunk.css",
+    "main.js": "/Cat-of-The-Minute/static/js/main.fa70df48.chunk.js",
+    "main.js.map": "/Cat-of-The-Minute/static/js/main.fa70df48.chunk.js.map",
+    "runtime-main.js": "/Cat-of-The-Minute/static/js/runtime-main.dade8757.js",
+    "runtime-main.js.map": "/Cat-of-The-Minute/static/js/runtime-main.dade8757.js.map",
+    "static/js/2.f5704b5d.chunk.js": "/Cat-of-The-Minute/static/js/2.f5704b5d.chunk.js",
+    "static/js/2.f5704b5d.chunk.js.map": "/Cat-of-The-Minute/static/js/2.f5704b5d.chunk.js.map",
+    "static/js/3.d703e484.chunk.js": "/Cat-of-The-Minute/static/js/3.d703e484.chunk.js",
+    "static/js/3.d703e484.chunk.js.map": "/Cat-of-The-Minute/static/js/3.d703e484.chunk.js.map",
+    "index.html": "/Cat-of-The-Minute/index.html",
+    "precache-manifest.ebf9943802634871b258f30dfca24f7a.js": "/Cat-of-The-Minute/precache-manifest.ebf9943802634871b258f30dfca24f7a.js",
+    "service-worker.js": "/Cat-of-The-Minute/service-worker.js",
+    "static/css/main.62562e34.chunk.css.map": "/Cat-of-The-Minute/static/css/main.62562e34.chunk.css.map",
+    "static/js/2.f5704b5d.chunk.js.LICENSE.txt": "/Cat-of-The-Minute/static/js/2.f5704b5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dade8757.js",
+    "static/js/2.f5704b5d.chunk.js",
+    "static/css/main.62562e34.chunk.css",
+    "static/js/main.fa70df48.chunk.js"
+  ]
+}
